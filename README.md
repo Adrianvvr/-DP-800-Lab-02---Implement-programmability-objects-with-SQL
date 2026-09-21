@@ -1,7 +1,5 @@
 # DP-800 Lab 02: Implementación de objetos de programabilidad con SQL
 
-⏱️ **Tiempo estimado:** 45 minutos
-
 ## 🎯 Objetivo
 Crear y utilizar objetos principales de programabilidad en SQL Server (vistas, procedimientos almacenados, funciones y triggers) para centralizar la lógica de negocio y mejorar el mantenimiento usando la base de datos de prueba `AdventureWorksLT`.
 
